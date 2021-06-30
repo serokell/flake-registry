@@ -129,23 +129,23 @@
     },
     {
       "from": {
-        "id": "hackage-nix",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "input-output-hk",
-        "repo": "hackage.nix",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
-        "id": "stackage-nix",
+        "id": "stackage",
         "type": "indirect"
       },
       "to": {
         "owner": "input-output-hk",
         "repo": "stackage.nix",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "hackage",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "input-output-hk",
+        "repo": "hackage.nix",
         "type": "github"
       }
     }
