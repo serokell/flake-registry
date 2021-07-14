@@ -148,6 +148,17 @@
         "rev": "bee71d692a10c9fcdc78f589945b9710f676cefb",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "crate2nix",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "kolloch",
+        "repo": "crate2nix",
+        "type": "github"
+      }
     }
   ],
   "version": 2
