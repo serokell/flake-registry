@@ -159,6 +159,17 @@
         "repo": "crate2nix",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "flake-compat",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "edolstra",
+        "repo": "flake-compat",
+        "type": "github"
+      }
     }
   ],
   "version": 2
