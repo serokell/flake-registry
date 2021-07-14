@@ -93,20 +93,6 @@
     },
     {
       "from": {
-        "id": "nix",
-        "type": "indirect"
-      },
-      "to": {
-        "lastModified": 1625068621,
-        "narHash": "sha256-bwN6rMVKp7fL/uGE2yb4cqyw3Z3tWM8R+faaG0bWQX0=",
-        "owner": "nixos",
-        "repo": "nix",
-        "rev": "139f7af5ec40ca75ad2ef9393c5029f0850105d9",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "upload-daemon",
         "type": "indirect"
       },
@@ -146,6 +132,20 @@
       "to": {
         "owner": "input-output-hk",
         "repo": "hackage.nix",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "nix",
+        "type": "indirect"
+      },
+      "to": {
+        "lastModified": 1626211675,
+        "narHash": "sha256-4a1rH5N7IQF61QG7SoS8bYKec9X1z7IcF0f3Tcc0eHw=",
+        "owner": "nixos",
+        "repo": "nix",
+        "rev": "bee71d692a10c9fcdc78f589945b9710f676cefb",
         "type": "github"
       }
     }
