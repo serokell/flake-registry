@@ -170,6 +170,17 @@
         "repo": "flake-compat",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "haskell-nix-weeder",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "serokell",
+        "repo": "haskell-nix-weeder",
+        "type": "github"
+      }
     }
   ],
   "version": 2
