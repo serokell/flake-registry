@@ -12,11 +12,7 @@ Locked entries map an indirect flake reference (such as `haskell-nix`) to a flak
 
 ## Maintaining
 
-Currently the patch that allows to edit custom registries with `nix registry` is only available in `github:serokell/nix?ref=balsoft/registry`. So, get it with
-
-```console
-nix shell 'github:serokell/nix?ref=balsoft/registry'
-```
+You need a relatively recent Nix (one that includes <https://github.com/NixOS/nix/pull/4968>)
 
 ### Adding a new unlocked entry
 
