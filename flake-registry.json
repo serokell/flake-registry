@@ -181,6 +181,17 @@
         "repo": "haskell-nix-weeder",
         "type": "github"
       }
+    },
+    {
+      "from": {
+        "id": "hermetic",
+        "type": "indirect"
+      },
+      "to": {
+        "owner": "serokell",
+        "repo": "hermetic",
+        "type": "github"
+      }
     }
   ],
   "version": 2
