@@ -123,20 +123,6 @@
     },
     {
       "from": {
-        "id": "nix",
-        "type": "indirect"
-      },
-      "to": {
-        "lastModified": 1626211675,
-        "narHash": "sha256-4a1rH5N7IQF61QG7SoS8bYKec9X1z7IcF0f3Tcc0eHw=",
-        "owner": "nixos",
-        "repo": "nix",
-        "rev": "bee71d692a10c9fcdc78f589945b9710f676cefb",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "crate2nix",
         "type": "indirect"
       },
@@ -190,6 +176,20 @@
         "owner": "input-output-hk",
         "repo": "haskell.nix",
         "rev": "d5d304d5b50db1e584ce62915c48fc8c0c8b626a",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "nix",
+        "type": "indirect"
+      },
+      "to": {
+        "lastModified": 1628513531,
+        "narHash": "sha256-DHuSZI+0XvMTmHPNnebs+zqgsdDkrnQckLXPLCIFroE=",
+        "owner": "nixos",
+        "repo": "nix",
+        "rev": "27444d40cf726129334899a42d68d69f73baa988",
         "type": "github"
       }
     }
