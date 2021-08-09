@@ -24,20 +24,6 @@
     },
     {
       "from": {
-        "id": "haskell-nix",
-        "type": "indirect"
-      },
-      "to": {
-        "lastModified": 1625015634,
-        "narHash": "sha256-bM9bdCCvOye16WFWgZ+0mzu7cKiqswx4rQCbfq3Co4g=",
-        "owner": "input-output-hk",
-        "repo": "haskell.nix",
-        "rev": "81fb54dbfdd350b6ad8271973545f1b668975394",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "serokell-nix",
         "type": "indirect"
       },
@@ -190,6 +176,20 @@
       "to": {
         "owner": "serokell",
         "repo": "hermetic",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "haskell-nix",
+        "type": "indirect"
+      },
+      "to": {
+        "lastModified": 1628222079,
+        "narHash": "sha256-nxBonHiFx7EVIjhGTNPyH7Qz4B1AgdagxsLslLil4Eg=",
+        "owner": "input-output-hk",
+        "repo": "haskell.nix",
+        "rev": "d5d304d5b50db1e584ce62915c48fc8c0c8b626a",
         "type": "github"
       }
     }
