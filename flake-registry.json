@@ -167,20 +167,6 @@
     },
     {
       "from": {
-        "id": "haskell-nix",
-        "type": "indirect"
-      },
-      "to": {
-        "lastModified": 1629940530,
-        "narHash": "sha256-cf/bshYWloj+rJSmOcFokN6Rs1lpFkiECKpykN3JBH8=",
-        "owner": "input-output-hk",
-        "repo": "haskell.nix",
-        "rev": "5fcd4faf98fc8ca8287e2c7bc1fff71dfd340f1f",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "nix",
         "type": "indirect"
       },
@@ -190,6 +176,20 @@
         "owner": "nixos",
         "repo": "nix",
         "rev": "27444d40cf726129334899a42d68d69f73baa988",
+        "type": "github"
+      }
+    },
+    {
+      "from": {
+        "id": "haskell-nix",
+        "type": "indirect"
+      },
+      "to": {
+        "lastModified": 1630978517,
+        "narHash": "sha256-4NOhGRVH9eu/cpADkSHxMqaAbHVsV7vrDDjjCul0jJA=",
+        "owner": "input-output-hk",
+        "repo": "haskell.nix",
+        "rev": "a4e105dcdb6d2b9d0627b8f0b893cec80485c14e",
         "type": "github"
       }
     }
