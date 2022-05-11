@@ -171,11 +171,11 @@
         "type": "indirect"
       },
       "to": {
-        "lastModified": 1636798039,
-        "narHash": "sha256-zUqHTquXysBMYsa7Ne7u9Wo1oLRl8ByQI6eJel7ZV5o=",
+        "lastModified": 1651454127,
+        "narHash": "sha256-FE6Nk414M0Or5/bQtVUg/KTntGDDPiz8kK3kygV4XQg=",
         "owner": "input-output-hk",
         "repo": "haskell.nix",
-        "rev": "91ec10c0321b75a79a4b6af69fdb30fa748ec0f7",
+        "rev": "4ee7270856a6ba4617c7e51a6c619f365faad894",
         "type": "github"
       }
     },
@@ -185,11 +185,11 @@
         "type": "indirect"
       },
       "to": {
-        "lastModified": 1633098935,
-        "narHash": "sha256-UtuBczommNLwUNEnfRI7822z4vPA7OoRKsgAZ8zsHQI=",
+        "lastModified": 1652280837,
+        "narHash": "sha256-N4To3tjnks/20pze4r1Wiu7s9+o21RxzKRfVX6+CDNo=",
         "owner": "nixos",
         "repo": "nix",
-        "rev": "4f496150eb4e0012914c11f0a3ff4df2412b1d09",
+        "rev": "b944b588fa280b0555b8269c0f6d097352f8716f",
         "type": "github"
       }
     }
