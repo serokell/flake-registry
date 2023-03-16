@@ -185,11 +185,11 @@
         "type": "indirect"
       },
       "to": {
-        "lastModified": 1671151873,
-        "narHash": "sha256-9nisAyp2nusKqvtvps4Uc+I/HPcpbgXkH5qnfqAjsio=",
+        "lastModified": 1678950661,
+        "narHash": "sha256-lvL54W90BTvwLVnFjPYmFVmgHyaGcFrt5FBy1F0rro8=",
         "owner": "input-output-hk",
         "repo": "haskell.nix",
-        "rev": "2860f6c26b6c2672b4ed34216efd26a2eb96dd4e",
+        "rev": "fce554bc6a41d12f7a18a0e8290bf43f925d7a29",
         "type": "github"
       }
     }
