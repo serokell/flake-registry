@@ -185,10 +185,11 @@
         "type": "indirect"
       },
       "to": {
-        "lastModified": 1743036718,
+        "__final": true,
+        "lastModified": 1756169496,
         "owner": "input-output-hk",
         "repo": "haskell.nix",
-        "rev": "83d85a587725f6d64e2ad5116f2b244f49d8c7dc",
+        "rev": "6a8eaba643320340ca56648c055148d1d4c64e1c",
         "type": "github"
       }
     }
