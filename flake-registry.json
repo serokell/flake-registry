@@ -46,17 +46,6 @@
     },
     {
       "from": {
-        "id": "common-infra",
-        "type": "indirect"
-      },
-      "to": {
-        "owner": "serokell",
-        "repo": "common-infra",
-        "type": "github"
-      }
-    },
-    {
-      "from": {
         "id": "vault-secrets",
         "type": "indirect"
       },
