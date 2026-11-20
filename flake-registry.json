@@ -6,7 +6,7 @@
         "type": "indirect"
       },
       "to": {
-        "owner": "serokell",
+        "owner": "NixOS",
         "repo": "nixpkgs",
         "type": "github"
       }
